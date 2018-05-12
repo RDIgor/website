@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Cars>
+ <Car>
+  <id>1</id>
+  <name>Audi A3 Sedan 2018</name>
+  <code>525301</code>
+  <price>30000</price>
+ </Car>
+ <Car>
+  <id>2</id>
+  <name>Audi A4 2018</name>
+  <code>523512</code>
+  <price>35000</price>
+ </Car>
+ <Car>
+  <id>3</id>
+  <name>Audi A6 2018</name>
+  <code>564213</code>
+  <price>40000</price>
+ </Car>
+ <Car>
+  <id>4</id>
+  <name>Audi S6 2018</name>
+  <code>645523</code>
+  <price>40000</price>
+ </Car>
+ <Car>
+  <id>5</id>
+  <name>Audi A8 2018</name>
+  <code>272645</code>
+  <price>60000</price>
+ </Car>
+ <Car>
+  <id>6</id>
+  <name>Audi A3 Sportback</name>
+  <code>252345</code>
+  <price>45000</price>
+ </Car>
+ <Car>
+  <id>7</id>
+  <name>RS 3 Sportback</name>
+  <code>645781</code>
+  <price>50000</price>
+ </Car>
+ <Car>
+  <id>8</id>
+  <name>Новый Audi A5 Sportback</name>
+  <code>645781</code>
+  <price>54000</price>
+ </Car>
+ <Car>
+  <id>9</id>
+  <name>Audi S5 Sportback</name>
+  <code>123231</code>
+  <price>50000</price>
+ </Car>
+ <Car>
+  <id>10</id>
+  <name>Audi A7 Sportback</name>
+  <code>456765</code>
+  <price>60000</price>
+ </Car>
+ <Car>
+  <id>11</id>
+  <name>Audi A7 Sportback</name>
+  <code>809523</code>
+  <price>56000</price>
+ </Car>
+ <Car>
+  <id>13</id>
+  <name>Audi RS 7 Sportback performance</name>
+  <code>345678</code>
+  <price>70000</price>
+ </Car>
+ <Car>
+  <id>14</id>
+  <name>Audi A4 Avant</name>
+  <code>198078</code>
+  <price>54000</price>
+ </Car>
+ <Car>
+  <id>15</id>
+  <name>Новый Audi RS 4 Avant</name>
+  <code>586798</code>
+  <price>55000</price>
+ </Car>
+ <Car>
+  <id>16</id>
+  <name>Audi A6 Avant</name>
+  <code>908675</code>
+  <price>60000</price>
+ </Car>
+ <Car>
+  <id>17</id>
+  <name>Audi RS 6 Avant performance</name>
+  <code>564782</code>
+  <price>65000</price>
+ </Car>
+ <Car>
+  <id>18</id>
+  <name>Audi A4 allroad quattro</name>
+  <code>690789</code>
+  <price>80000</price>
+ </Car>
+ <Car>
+  <id>19</id>
+  <name>Audi A6 allroad quattro</name>
+  <code>456734</code>
+  <price>85000</price>
+ </Car>
+ <Car>
+  <id>20</id>
+  <name>Audi A5 Coupé</name>
+  <code>555656</code>
+  <price>90000</price>
+ </Car>
+ <Car>
+  <id>21</id>
+  <name>Audi S5 Coupé</name>
+  <code>456546</code>
+  <price>90000</price>
+ </Car>
+ <Car>
+  <id>22</id>
+  <name>Audi RS 5 Coupé</name>
+  <code>433123</code>
+  <price>95000</price>
+ </Car>
+ <Car>
+  <id>23</id>
+  <name>Audi TT Coupé</name>
+  <code>98908</code>
+  <price>70000</price>
+ </Car>
+ <Car>
+  <id>24</id>
+  <name>Audi R8 V10 plus</name>
+  <code>465789</code>
+  <price>95000</price>
+ </Car>
+ <Car>
+  <id>25</id>
+  <name>Audi Q3</name>
+  <code>645798</code>
+  <price>70000</price>
+ </Car>
+ <Car>
+  <id>26</id>
+  <name>Audi Q5</name>
+  <code>465798</code>
+  <price>75000</price>
+ </Car>
+ <Car>
+  <id>27</id>
+  <name>Audi SQ5 TFSI</name>
+  <code>465767</code>
+  <price>78000</price>
+ </Car>
+ <Car>
+  <id>28</id>
+  <name>Audi Q7</name>
+  <code>123929</code>
+  <price>90000</price>
+ </Car>
+</Cars>

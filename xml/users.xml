@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+ <Order>
+  <id>1</id>
+  <name>Игорь Завистович</name>
+  <country>Германия</country>
+  <email>ig@mail.ru</email>
+  <password>123456</password>
+  <role>admin</role>
+ </Order>
+ <Order>
+  <id>2</id>
+  <name>Андрей</name>
+  <country>Россия</country>
+  <email>and@mail.ru</email>
+  <password>111111</password>
+  <role/>
+ </Order>
+</Users>

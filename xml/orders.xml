@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+ <Order>
+  <id>11</id>
+  <user_name>Игорь Завистович</user_name>
+  <user_phone>22132213321</user_phone>
+  <user_country>Германия</user_country>
+  <date>2018-05-10 15:06:28</date>
+  <status>1</status>
+ </Order>
+ <Order>
+  <id>10</id>
+  <user_name>Игорь Завистович</user_name>
+  <user_phone>12123312312</user_phone>
+  <user_country>Германия</user_country>
+  <date>2018-05-10 11:19:40</date>
+  <status>1</status>
+ </Order>
+ <Order>
+  <id>9</id>
+  <user_name>Игорь Завистович</user_name>
+  <user_phone>2132132123312</user_phone>
+  <user_country>Беларусь</user_country>
+  <date>2018-05-10 01:47:26</date>
+  <status>1</status>
+ </Order>
+ <Order>
+  <id>4</id>
+  <user_name>RDIgor</user_name>
+  <user_phone>12121211211</user_phone>
+  <user_country>Швеция</user_country>
+  <date>2018-05-10 01:40:16</date>
+  <status>1</status>
+ </Order>
+ <Order>
+  <id>3</id>
+  <user_name>Lexa</user_name>
+  <user_phone>39813812389</user_phone>
+  <user_country>Беларусь</user_country>
+  <date>2018-05-10 01:40:11</date>
+  <status>1</status>
+ </Order>
+ <Order>
+  <id>2</id>
+  <user_name>RDIgor</user_name>
+  <user_phone>2112211212</user_phone>
+  <user_country>Нарвегия</user_country>
+  <date>2018-05-10 01:40:07</date>
+  <status>1</status>
+ </Order>
+</Orders>
