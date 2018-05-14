@@ -20,6 +20,7 @@ return array(
     
     'user/logout' => 'user/logout',
     
+    
     'cabinet/history' => 'cabinet/history',
     
     'cabinet/edit' => 'cabinet/edit',
@@ -44,6 +45,10 @@ return array(
     'search' => 'site/search',
     
     'index.php' => 'site/index',
+    
+    'admin/user/update/([0-9]+)' => 'adminUser/update/$1',
+    'admin/user/delete/([0-9]+)' => 'adminUser/delete/$1',
+    'admin/user' => 'adminUser/index',
     
     'admin/model/create' => 'adminModel/create',
     'admin/model/update/([0-9]+)' => 'adminModel/update/$1',

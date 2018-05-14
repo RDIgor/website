@@ -15,6 +15,8 @@
             <br/>
             
             <ul >
+                <li><a href="/admin/user">Управление Пользователи</a></li>
+                <p></p>
                 <li><a href="/admin/model">Управление Модели</a></li>
                 <p></p>
                 <li><a href="/admin/product">Управление Автомобили</a></li>

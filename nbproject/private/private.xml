@@ -15,6 +15,7 @@
             <file>file:/C:/wamp64/www/template/css/bootstrap.min.css</file>
             <file>file:/C:/wamp64/www/controllers/AdminController.php</file>
             <file>file:/C:/wamp64/www/.htaccess</file>
+            <file>file:/C:/wamp64/www/controllers/AdminUserController.php</file>
             <file>file:/C:/wamp64/www/controllers/CabinetController.php</file>
             <file>file:/C:/wamp64/www/views/user/register.php</file>
             <file>file:/C:/wamp64/www/controllers/CartController.php</file>
@@ -24,7 +25,9 @@
             <file>file:/C:/wamp64/www/views/product/view.php</file>
             <file>file:/C:/wamp64/www/upload/images/products/2.jpg</file>
             <file>file:/C:/wamp64/www/views/admin_model/index.php</file>
+            <file>file:/C:/wamp64/www/views/admin_user/update.php</file>
             <file>file:/C:/wamp64/www/views/admin_product/update.php</file>
+            <file>file:/C:/wamp64/www/views/catalog/search.php</file>
             <file>file:/C:/wamp64/www/upload/images/products/1.jpg</file>
             <file>file:/C:/wamp64/www/template/js/jquery.scrollUp.min.js</file>
             <file>file:/C:/wamp64/www/views/product/error.php</file>
@@ -35,6 +38,7 @@
             <file>file:/C:/wamp64/www/components/AdminBase.php</file>
             <file>file:/C:/wamp64/www/controllers/CatalogController.php</file>
             <file>file:/C:/wamp64/www/views/admin_product/create.php</file>
+            <file>file:/C:/wamp64/www/README.md</file>
             <file>file:/C:/wamp64/www/views/cart/checkout.php</file>
             <file>file:/C:/wamp64/www/controllers/ProductController.php</file>
             <file>file:/C:/wamp64/www/controllers/SiteController.php</file>
@@ -43,6 +47,7 @@
             <file>file:/C:/wamp64/www/models/User.php</file>
             <file>file:/C:/wamp64/www/views/admin_category/update.php</file>
             <file>file:/C:/wamp64/www/config/db_params.php</file>
+            <file>file:/C:/wamp64/www/views/admin_user/index.php</file>
             <file>file:/C:/wamp64/www/views/cart/index.php</file>
             <file>file:/C:/wamp64/www/controllers/AdminOrderController.php</file>
             <file>file:/C:/wamp64/www/views/admin_category/create.php</file>

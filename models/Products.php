@@ -278,7 +278,7 @@ class Products
      * @param integer $id <p>id товара</p>
      * @return boolean <p>Результат выполнения метода</p>
      */
-    public static function deleteProductById($id)
+    public static function deleteProductById($id) //функция удаления товара с определенным id
     {
         // Соединение с БД
         $db = Db::getConnection();

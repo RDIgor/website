@@ -33,9 +33,9 @@
 
                     <?php else: ?>
                                     <?php if ($_SESSION['coin']): ?>
-                        <p>Выбрано товаров: <?php echo $totalQuantity; ?>, на сумму: <?php echo (doubleval($totalPrice)*my_value); ?>RUB</p><br/>
+                        <p>Выбрано товаров: <?php echo $totalQuantity; ?>, на сумму: <?php echo (doubleval($totalPrice)*my_value); ?>BYN</p><br/>
                                     <?php else:?>
-                                     <p>Выбрано товаров: <?php echo $totalQuantity; ?>, на сумму: <?php echo $totalPrice; ?>BYN</p><br/>
+                                     <p>Выбрано товаров: <?php echo $totalQuantity; ?>, на сумму: <?php echo $totalPrice; ?>US</p><br/>
                                     <?php endif; ?>
                        
 

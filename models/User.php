@@ -20,7 +20,8 @@ class User
     
     public static function register($name, $email,$country,$password)
     {
-
+        $password = md5($password);
+        
         $db = Db::getConnection();
 
         $sql = 'INSERT INTO user_purchaser (name, email,country, password) '
@@ -42,6 +43,7 @@ class User
      */
     public static function edit($id, $name,$country, $password)
     {
+        $password = md5($password);
         $db = Db::getConnection();
         
         $sql = "UPDATE user_purchaser 
@@ -56,6 +58,17 @@ class User
         
         return $result->execute();
     }
+    public static function deleteUserById($id)
+    {
+        $db = Db::getConnection();
+        
+        $sql = 'DELETE FROM user_purchaser WHERE id =:id';
+
+        $result = $db->prepare($sql);
+        $result->bindParam(':id', $id, PDO::PARAM_INT);
+        
+        return $result->execute();        
+    }
 
     /**
      * Проверяем существует ли пользователь с заданными $email и $password
@@ -65,6 +78,8 @@ class User
      */
     public static function checkUserData($email, $password)
     {
+        $password = md5($password);
+        
         $db = Db::getConnection();
 
         $sql = 'SELECT * FROM user_purchaser WHERE email = :email AND password = :password';
